@@ -1585,23 +1585,7 @@ pointer #fh5co-services.border-bottom {
 #fh5co-started .form-control:focus {
   background: rgba(255, 255, 255, 0.3);
 }
-#fh5co-started .btn {
-  height: 54px;
-  border: none !important;
-  background: #A020F0;
-  color: #fff;
-  font-size: 16px;
-  text-transform: uppercase;
-  font-weight: 400;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-#fh5co-started .btn:hover {
-  background: #f6163c !important;
-  -webkit-box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75) !important;
-  -moz-box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75) !important;
-  box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75) !important;
-}
+
 #fh5co-started .form-inline .form-group {
   width: 100% !important;
   margin-bottom: 10px;
@@ -1620,7 +1604,7 @@ pointer #fh5co-services.border-bottom {
   list-style: none;
 }
 #fh5co-footer .fh5co-footer-links li a {
-  color: #000;
+  color: #A020F0;
   text-decoration: none;
 }
 #fh5co-footer .fh5co-footer-links li a:hover {
