@@ -1556,7 +1556,7 @@ pointer #fh5co-services.border-bottom {
   font-weight: 300;
 }
 #fh5co-started .fh5co-heading p {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.9);
 }
 #fh5co-started .form-control {
   background: rgba(255, 255, 255, 0.2);
@@ -2316,4 +2316,5 @@ input {
     font-size: 20px;
   }
 }
+
 
